@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Soni</h1>
 <h3 align="center">A passionate FullStack developer with expertise in Backend Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam83soni" alt="satyam83soni" /></a> </p>
 
 - 🔭 I’m currently working on [Company-Management](https://github.com/Mayank06711/Company-Management)
 
@@ -35,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam83soni&show_icons=true&locale=en" alt="satyam83soni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam83soni&" alt="satyam83soni" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam83soni" alt="satyam83soni" /></a> </p>
+
