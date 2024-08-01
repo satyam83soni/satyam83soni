@@ -30,6 +30,7 @@
 <h2 align="left">I'm a passionate FullStack developer with expertise in Backend Development.</h2>
 
 ###
+<h3 align="left">Connect with me:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam83soni&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
