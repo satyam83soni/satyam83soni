@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a passionate FullStack developer with expertise in Backend Development.</h2>
+<h2 align="left">I'm a passionate FullStack developer with expertise in Backend Development.</h2>
 
 ###
 
@@ -116,11 +116,4 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam83soni&show_icons=true&locale=en&layout=compact" alt="satyam83soni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam83soni&show_icons=true&locale=en" alt="satyam83soni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam83soni&" alt="satyam83soni" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam83soni" alt="satyam83soni" /></a> </p>
 
