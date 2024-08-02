@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Backend Development(node) , Devops(Docker , EC2 , S3, Nginx)**
+- 💬 Ask me about **Backend Development(node) , Devops(Docker , EC2 , S3, Nginx Kafka ,Redis)**
 
 - 📫 How to reach me **satyam83soni@gmail.com / +91 8423059294**
 
